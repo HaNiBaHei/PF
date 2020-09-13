@@ -18,5 +18,8 @@
     <ClCompile Include="atoA Atoa.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="fac.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
